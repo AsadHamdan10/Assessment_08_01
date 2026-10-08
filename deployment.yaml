@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: noticeboard-container
-        image: YOUR_DOCKERHUB_USERNAME/noticeboard:latest
+        image: AsadHamdan10/noticeboard:latest
         ports:
         - containerPort: 80
 ---
