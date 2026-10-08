@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: noticeboard-container
-        image: AsadHamdan10/noticeboard:latest
+        image: asadhamdan10/noticeboard:latest
         ports:
         - containerPort: 80
 ---
